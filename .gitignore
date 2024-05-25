@@ -160,3 +160,10 @@ cython_debug/
 #.idea/
 
 course-repo/
+*.csv
+*.parquet
+mlruns
+mlartifacts
+models
+output
+*.db
